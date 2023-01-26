@@ -59,30 +59,19 @@ home.html:
           <h1>About Us</h1>
           <img src="https://na.battlegrounds.pubg.com/wp-content/uploads/sites/3/2021/06/2018-07-03-superplay_1007_393x262.jpg" alt="Building" />
           <div class="contenttext">
-            PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed by PUBG Studios and published by Krafton. The game, which was inspired by the Japanese film Battle Royale (2000), is based on previous mods created by Brendan "PlayerUnknown" Greene for other games, and expanded into a standalone game under Greene's creative direction. It is the first game in the PUBG Universe series.<br><br><br>
-
+            PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed by PUBG Studios and published by Krafton. The game, which was inspired by the Japanese film Battle Royale (2000), is based on previous mods created by Brendan "PlayerUnknown" Greene for other games, and expanded into a standalone game under Greene's creative direction. It is the first game in the PUBG Universe series.<br><br>
 The game is played from either a third-person or first-person perspective. In the game, up to one hundred players parachute onto an island where they scavenge for weapons and equipment to kill other players while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into an ever tightening space to force encounters. The last surviving player (or team) wins the round.
-
-
-            
             <ul>
               <li>Battlegrounds won the "Best Multiplayer Game" </li>
               <li>The game's nomination for "Game of the Year" created some debate</li>
               <li>Battlegrounds has been nominated and won several industry awards</li>
-            </ul>
-          </div>
-        </div>
-      </div>
+            </ul> </div></div></div>
       <div class="footer">
         Copyright &#169; 2023 Maddy Merchandise Limited, Developed by Madhavan.
-      </div>
-    </div>
-  </body>
-</html>
+      </div></div>  </body></html>
 ```
 product.html:
 ```
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -90,7 +79,6 @@ product.html:
     <link rel="stylesheet" href="layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner"><span style="background-color: #FFFF00">MADDY MERCHANDISE</span></div>
@@ -102,22 +90,16 @@ product.html:
         <div class="menuitem"><a href="people.html">People</a></div>
         <div class="menuitem"><a href="contact.html">Contact Us</a></div>
       </div>
-      <div class="content">
-        <div class="productcontent">    
+      <div class="content"><div class="productcontent">    
           <h1>Our Premium Products</h1>
-          <div class="productitems">
-              <div class="productitem"> 
+          <div class="productitems"><div class="productitem"> 
                   <div class="itemimage">
                   <img src="https://idolstore.net/wp-content/uploads/2020/01/people_13_manshortfull_front_white_700-9503-600x600.jpg" alt="product image">
                   </div>
                   <div class="itemname">Royal PUBG T-Shirt</div>
-                  <div class="itemprice">Price: Rs.1850 </div>
-              </div>
-              <div class="productitem"> 
+                  <div class="itemprice">Price: Rs.1850 </div> </div><div class="productitem"> 
                   <div class="itemimage">
-                  <img src="https://cdn.shopify.com/s/files/1/1374/2665/products/R5_3203f7b2-6785-4821-b5c9-0f1ccb69b40f_1800x1800.jpg?v=1570502615"  alt="product image">
-                  </div>
-                  <div class="itemname">12L Premium BackPack</div>
+                  <img src="https://cdn.shopify.com/s/files/1/1374/2665/products/R5_3203f7b2-6785-4821-b5c9-0f1ccb69b40f_1800x1800.jpg?v=1570502615"  alt="product image"></div><div class="itemname">12L Premium BackPack</div>
                   <div class="itemprice">Price: Rs.2100 </div>
               </div>
               <div class="productitem"> 
@@ -140,16 +122,10 @@ product.html:
             </div>
             <div class="itemname">Classy PUBG printed Cap</div>
             <div class="itemprice">Price: Rs.480 </div>
-        </div>
-          </div>
-          </div>        
-      </div>
+        </div>      </div>          </div>       </div>
       <div class="footer">
         Copyright &#169; 2023 Maddy Merchandise Limited, Developed by Madhavan.
-      </div>
-    </div>
-  </body>
-</html>
+      </div>    </div>  </body> </html>
 ```
 people.html:
 ```
@@ -160,7 +136,6 @@ people.html:
     <link rel="stylesheet" href="layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner"><span style="background-color: #FFFF00">MADDY MERCHANDISE</span></div>
@@ -216,10 +191,7 @@ people.html:
       </div>
       <div class="footer">
         Copyright &#169; 2023 Maddy Merchandise Limited, Developed by Madhavan.
-      </div>
-    </div>
-  </body>
-</html>
+      </div>    </div>  </body></html>
 ```
 contact.html:
 ```
@@ -262,10 +234,7 @@ contact.html:
       </div>
       <div class="footer">
         Copyright &#169; 2023 Maddy Merchandise Limited, Developed by Madhavan.
-      </div>
-    </div>
-  </body>
-</html>
+      </div>    </div>  </body> </html>
 ```
 
 ## OUTPUT:
